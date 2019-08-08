@@ -2,9 +2,9 @@
 
 class Settings {
 	
-	public static $clientId = '9970fd90-f123-4827-9124-b0c00d9effa2';
+	public static $clientId = 'bf1a0bf7-9c62-4575-a0df-896ec1b4710c';
 	
-	public static $password = '630Cbe-1iJLMFZPgSCX.JjIX=ivfwY/?';
+	public static $password = 'uI.ve:DVdsiV1OhKXT+.Ly0MwJ3N7AE5';
 	
 	public static $authority = 'https://login.microsoftonline.com/common/';
 	
